@@ -1,2 +1,2 @@
-# hellp-world
+# hello-world
 Just for practice.
